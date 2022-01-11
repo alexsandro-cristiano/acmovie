@@ -1,20 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 :root {
-  --color-primary: #090f13;
-  --color-background: #e7ddd3;
-  /*#090f13 - preto
-  #171f25 - preto azulado
-  #752e2b - marrom
-  #c90a02 - vermelho
-  #f2eab7 -
- 
-  .color1 { #e7ddd3 };
-.color2 { #c0c2bd };
-.color3 { #9c9994 };
-.color4 { #29251c };
-.color5 { #e6aa9f };
- */
+  --color-primary: #1f0b2b;
+  --color-secudary:#baafc4;
+  --color-background: #523961;
+  --color-card: #ffffff;
+  --color-font-first: #1b1111;
+  --color-font-secudary: #222020;
 }
 
 * {

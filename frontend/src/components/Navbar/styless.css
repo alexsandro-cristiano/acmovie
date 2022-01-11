@@ -1,5 +1,5 @@
 header {
-  height: 60px;
+  height: 6rem;
   background-color: var(--color-primary);
   display: flex;
   align-items: center;
@@ -13,7 +13,7 @@ header {
 }
 
 .dsmovie-nav-content h1 {
-  font-size: 24px;
+  font-size: 2.4rem;
   margin: 0;
   font-weight: 700;
 }
@@ -24,6 +24,6 @@ header {
 }
 
 .dsmovie-contact-link {
-  margin: 0 0 0 10px;
-  font-size: 12px;
+  margin: 0 0 0 1rem;
+  font-size: 1.3rem;
 }

@@ -14,7 +14,7 @@
 
 .dsmovie-form-group label {
   font-size: 1.2rem;
-  color: #171f25;
+  color: var(--color-font-first);
 }
 
 .dsmovie-form-btn-container {
@@ -28,7 +28,7 @@
 }
 
 .dsmovie-card-bottom-container {
-  background-color: #fff;
+  background-color: var(--color-card);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,9 +37,9 @@
 }
 
 .dsmovie-card-bottom-container h3 {
-  color: #29251c;
+  color: var(--color-font-secudary);
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 1.9rem;
   font-weight: 700;
   margin-bottom: 1rem;
   min-height: 4rem;
