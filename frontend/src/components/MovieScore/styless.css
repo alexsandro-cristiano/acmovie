@@ -1,0 +1,18 @@
+.dsmovie-score-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dsmovie-score-value {
+  margin: 0;
+  color: #ffbb3a;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.dsmovie-score-count {
+  font-size: 1.2rem;
+  color: #989898;
+  margin: .4rem 0 1rem 0;
+}
